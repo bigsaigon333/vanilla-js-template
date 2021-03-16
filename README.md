@@ -32,3 +32,11 @@ yarn run v1.22.10
 Successfully created .eslintrc.json file
 Done in 13.17s.
 ```
+
+- airbnb JS style 적용
+
+```shell
+$ npx install-peerdeps --dev eslint-config-airbnb-base
+```
+
+[참고자료- Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
