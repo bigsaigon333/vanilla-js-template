@@ -40,3 +40,11 @@ $ npx install-peerdeps --dev eslint-config-airbnb-base
 ```
 
 [참고자료- Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+- eslint-config-prettier 설치
+
+```shell
+$ yarn add eslint-config-prettier --dev
+```
+
+[참고자료 - Prettier vs. Linters](https://prettier.io/docs/en/comparison.html)
