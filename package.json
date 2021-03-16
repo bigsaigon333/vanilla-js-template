@@ -1,0 +1,9 @@
+{
+  "name": "javascript-package-initial-settings",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/bigsaigon333/javascript-package-initial-settings.git",
+  "author": "bigsaigon333 <likepeppermint@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
