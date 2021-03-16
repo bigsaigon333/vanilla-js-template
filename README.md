@@ -62,3 +62,5 @@ $ yarn add eslint-plugin-cypress --dev
 
 [EditorConfig](https://editorconfig.org/)
 [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+
+5. vscode settings 추가
