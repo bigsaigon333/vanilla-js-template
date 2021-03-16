@@ -64,3 +64,9 @@ $ yarn add eslint-plugin-cypress --dev
 [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 5. vscode settings 추가
+
+6. git hook을 활용하여 커밋 전 prettier / eslint 자동화
+
+```shell
+$ npx mrm lint-staged
+```
