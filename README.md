@@ -48,3 +48,12 @@ $ yarn add eslint-config-prettier --dev
 ```
 
 [참고자료 - Prettier vs. Linters](https://prettier.io/docs/en/comparison.html)
+
+- cypress 및 eslint-plugin-cypress 설치
+
+```shell
+$ yarn add cypress --dev
+
+$ yarn add eslint-plugin-cypress --dev
+
+```
