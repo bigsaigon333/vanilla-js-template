@@ -20,4 +20,15 @@ $ echo {} > .prettierrc.json
 
 ```shell
 $ yarn add eslint --dev
+
+$ yarn eslint --init
+yarn run v1.22.10
+✔ How would you like to use ESLint? · problems
+✔ What type of modules does your project use? · esm
+✔ Which framework does your project use? · none
+✔ Does your project use TypeScript? · No / Yes
+✔ Where does your code run? · browser
+✔ What format do you want your config file to be in? · JSON
+Successfully created .eslintrc.json file
+Done in 13.17s.
 ```
