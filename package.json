@@ -5,5 +5,8 @@
   "repository": "https://github.com/bigsaigon333/javascript-package-initial-settings.git",
   "author": "bigsaigon333 <likepeppermint@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
 }
