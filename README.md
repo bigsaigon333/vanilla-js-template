@@ -15,3 +15,9 @@ $ yarn add prettier --dev --exact
 $ echo {} > .prettierrc.json
 
 ```
+
+3. eslint를 설치한다
+
+```shell
+$ yarn add eslint --dev
+```
