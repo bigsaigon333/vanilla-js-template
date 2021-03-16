@@ -57,3 +57,8 @@ $ yarn add cypress --dev
 $ yarn add eslint-plugin-cypress --dev
 
 ```
+
+4. editorconfig 설정 및 editorconfig for vs code extension 설치
+
+[EditorConfig](https://editorconfig.org/)
+[EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
