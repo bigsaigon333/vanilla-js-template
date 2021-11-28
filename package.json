@@ -32,14 +32,9 @@
     "stylelint-config-standard": "^23.0.0",
     "stylelint-order": "^5.0.0"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "lint-staged": {
-    "*.js": "eslint --cache",
-    "*.css": "stylelint --cache --fix",
+    "*.js": "eslint --cache --fix",
+    "*.css": "stylelint --fix",
     "*": "prettier --write --ignore-unknown"
   }
 }
